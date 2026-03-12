@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 dal
 bhat
 chow
+=======
+Dil Chahta Hain
+3 idiots
+Lagaan
+>>>>>>> movies
